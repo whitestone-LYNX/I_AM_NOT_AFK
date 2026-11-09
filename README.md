@@ -11,3 +11,6 @@ Simpply download the .zip, extract it and run the .exe .
 How to turn on and off the script is explained at the top.
 
 Have fun!
+
+**IMPORTANT**
+The exe isn't a virus. The zip might get flagged as a virus. It really isn't.
